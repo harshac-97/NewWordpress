@@ -1,0 +1,5 @@
+2020-03-25 10:35:24,903 [main] INFO Log4j - Chrome Driver Opened
+2020-03-25 10:35:32,333 [main] INFO Log4j - Navigated to facebook
+2020-03-25 10:45:07,701 [main] INFO Log4j - Chrome Driver Opened
+2020-03-25 10:45:13,380 [main] INFO Log4j - Navigated to facebook
+2020-03-25 10:45:20,139 [main] INFO Log4j - USERNAME entered

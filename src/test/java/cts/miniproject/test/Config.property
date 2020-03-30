@@ -1,0 +1,7 @@
+chromeDriver = C:\\Users\\HARSHA\\eclipse-workspace\\cts-selenium-harsha\\src\\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver = C:\\Users\HARSHA\\eclipse-workspace\\cts-selenium-harsha\\src\\test\\resources\\binaries\\geckodriver.exe
+
+URL = https://www.facebook.com/
+
+Excelpath = 
